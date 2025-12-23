@@ -57,7 +57,7 @@ const Projects = () => {
         <div className="flex-col flex md:flex-row mt-7"> {/* Moved down */}
           {/* Animals of Africa */}
           <Link
-            href="https://github.com/tugrul95/SwiftUI-Animals-of-Africa"
+            href="https://github.com/tgrlgkbl/SwiftUI-Animals-of-Africa"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -79,7 +79,7 @@ const Projects = () => {
 
           {/* Crypto-App */}
           <Link
-            href="https://github.com/tugrul95/Crypto-App"
+            href="https://github.com/tgrlgkbl/Crypto-App"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -102,7 +102,7 @@ const Projects = () => {
         <div className="flex-col flex md:flex-row mt-7"> {/* Moved down */}
           {/* SwiftUI-Weather-App */}
           <Link
-            href="https://github.com/tugrul95/SwiftUI-Weather-App"
+            href="https://github.com/tgrlgkbl/SwiftUI-Weather-App"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
